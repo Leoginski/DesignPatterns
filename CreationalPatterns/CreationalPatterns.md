@@ -1,1 +1,1 @@
-[FactoryMethod](../FactoryMethod/Docs/FactoryMethod.md)
+[FactoryMethod](./FactoryMethod/Docs/FactoryMethod.md)

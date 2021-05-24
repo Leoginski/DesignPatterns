@@ -1,5 +1,5 @@
-[CreationalPatterns](../CreationalPatterns/CreationalPatterns.md)
+[CreationalPatterns](./CreationalPatterns/CreationalPatterns.md)
 
-[StructuralPatterns](../StructuralPatterns/StructuralPatterns.md)
+[StructuralPatterns](./StructuralPatterns/StructuralPatterns.md)
 
-[BehavioralPatterns](../BehavioralPatterns/BehavioralPatterns.md)
+[BehavioralPatterns](./BehavioralPatterns/BehavioralPatterns.md)
