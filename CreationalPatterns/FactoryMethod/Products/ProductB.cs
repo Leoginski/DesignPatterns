@@ -2,7 +2,7 @@
 
 namespace FactoryMethod.Products
 {
-    public class ProductB : Product
+    public class ProductB : IProduct
     {
         public void DoStuff()
         {

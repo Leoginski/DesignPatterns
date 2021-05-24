@@ -8,7 +8,7 @@ namespace FactoryMethod
     {
         static void Main(string[] args)
         {
-            Creator creator;
+            ICreator creator;
 
             string platform = "Windows";
 
@@ -30,7 +30,7 @@ namespace FactoryMethod
             }
 
             //Generic application
-            Product product = creator.CreateProduct();
+            IProduct product = creator.CreateProduct();
             product.DoStuff();
         }
     }

@@ -2,9 +2,9 @@
 
 namespace FactoryMethod.Creators
 {
-    public class CreatorB : Creator
+    public class CreatorB : ICreator
     {
-        public override Product CreateProduct()
+        public override IProduct CreateProduct()
         {
             return new ProductB();
         }
