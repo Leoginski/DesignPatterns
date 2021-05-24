@@ -1,0 +1,1 @@
+[FactoryMethod](../FactoryMethod/Docs/FactoryMethod.md)
